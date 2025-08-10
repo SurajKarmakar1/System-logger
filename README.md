@@ -3,7 +3,7 @@
 A Node.js application for monitoring system resources including CPU, memory, network, and process information with logging capabilities.
 
 ## Demo
-![System Demo]()
+![System Demo](https://github.com/SurajKarmakar1/System-logger/blob/main/%7B0CDA3348-EDF9-4254-B0EA-8DA79862855C%7D.png)
 
 
 
