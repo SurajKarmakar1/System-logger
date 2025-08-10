@@ -3,6 +3,8 @@
 A Node.js application for monitoring system resources including CPU, memory, network, and process information with logging capabilities.
 
 ## Demo
+![System Demo]()
+
 
 
 ## Features
